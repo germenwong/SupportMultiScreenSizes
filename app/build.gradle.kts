@@ -5,7 +5,7 @@ plugins {
 
 android {
       namespace = "com.hgm.supportmultiscreensizes"
-      compileSdk = 33
+      compileSdk = 34
 
       defaultConfig {
             applicationId = "com.hgm.supportmultiscreensizes"
